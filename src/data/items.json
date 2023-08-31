@@ -3,7 +3,7 @@
     "id": 1,
     "make": "Bentley",
     "name": "Continental Flying Spur",
-    "price": 38493.0,
+    "price": 47839.55,
     "imgUrl": "/imgs/BENTLEY-Continental-Flying-Spur-45_39.jpg"
   },
   {
@@ -38,7 +38,7 @@
     "id": 6,
     "make": "Hyundai",
     "name": "Entourage",
-    "price": 47839.55,
+    "price": 38493.0,
     "imgUrl": "/imgs/Hyundai-Entourage.png"
   },
   {
