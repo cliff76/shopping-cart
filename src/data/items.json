@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "make": "Bentley",
+    "name": "Continental Flying Spur",
+    "price": 38493.0,
+    "imgUrl": "/imgs/BENTLEY-Continental-Flying-Spur-45_39.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Daewoo",
+    "name": "Nubira",
+    "price": 20445.13,
+    "imgUrl": "/imgs/Daewoo-Nubria.jpg"
+  },
+  {
+    "id": 3,
+    "make": "Honda",
+    "name": "Accord",
+    "price": 37533.62,
+    "imgUrl": "/imgs/Honda-Accord.webp"
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "name": "Monte Carlo",
+    "price": 33048.98,
+    "imgUrl": "/imgs/chevrolet-monte-carlo.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "name": "Altima",
+    "price": 35739.61,
+    "imgUrl": "/imgs/2023-nissan-altima-106-1654783713.jpg"
+  },
+  {
+    "id": 6,
+    "make": "Hyundai",
+    "name": "Entourage",
+    "price": 47839.55,
+    "imgUrl": "/imgs/Hyundai-Entourage.png"
+  },
+  {
+    "id": 7,
+    "make": "Lincoln",
+    "name": "Continental",
+    "price": 45915.16,
+    "imgUrl": "/imgs/2024-Lincoln-Continental.webp"
+  },
+  {
+    "id": 8,
+    "make": "Cadillac",
+    "name": "CT4",
+    "price": 30982.1,
+    "imgUrl": "/imgs/2023-Cadillac-CT4-V-Blackwing-three-quarter-view-1.jpg"
+  },
+  {
+    "id": 9,
+    "make": "Lexus",
+    "name": "LS",
+    "price": 23770.62,
+    "imgUrl": "/imgs/2023-lexus-ls.jpg"
+  },
+  {
+    "id": 10,
+    "make": "Ford",
+    "name": "Explorer",
+    "price": 49289.63,
+    "imgUrl": "/imgs/2023-Ford-Explorer.jpg"
+  }
+]
