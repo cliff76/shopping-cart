@@ -18,8 +18,6 @@ export function StoreItem({make, name, price, imgUrl}: StoreItemProps) {
     return (
         <Card className="h-100">
             <Card.Img variant="top" height="200px" src={imgUrl} style={{objectFit: "cover"}}/>
-            {/*<h1>{make}</h1>*/}
-            {/*<div>{name} {price}</div>*/}
             <Card.Body className="d-flex flex-column">
                 <Card.Title className="d-flex justify-content-between align-items-baseline mb-4">
                     <span className="fs-2">{make} {name}</span>
