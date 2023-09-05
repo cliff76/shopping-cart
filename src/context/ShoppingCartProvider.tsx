@@ -20,7 +20,7 @@ type CartItem = {
 export function useShoppingCart() {
     return useContext(ShoppingCartContext)
 }
-export function ShoppingCartContext({children}: ShoppingCartProviderProps) {
+export function ShoppingCartProvider({children}: ShoppingCartProviderProps) {
     const [cartItems, setCartItems] = useState<CartItem[]>([])
 
     function findCartItem(id: number) {
